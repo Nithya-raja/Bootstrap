@@ -3,4 +3,4 @@
 *.html linguist-detectable=true
 *.xml linguist-detectable=false
 *.cs linguist-detectable=true
-
+*.css linguist-detectable=false
